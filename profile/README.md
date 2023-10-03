@@ -18,3 +18,5 @@ See https://erc4626.info/ For protocols building on the standard and additional 
 [Snekmate](https://github.com/pcaversaccio/snekmate/blob/main/src/extensions/ERC4626.vy)
 
 [Solady](https://github.com/Vectorized/solady/blob/main/src/tokens/ERC4626.sol)
+
+[Fubuloubu Implementation](https://github.com/ERC4626-Alliance/ERC4626/blob/main/contracts/VyperVault.vy)
